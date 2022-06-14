@@ -1,0 +1,15 @@
+C:\Users\arvin\Desktop\Outputs_And_Integers\bin\Debug\net6.0\Outputs_And_Integers.exe
+C:\Users\arvin\Desktop\Outputs_And_Integers\bin\Debug\net6.0\Outputs_And_Integers.deps.json
+C:\Users\arvin\Desktop\Outputs_And_Integers\bin\Debug\net6.0\Outputs_And_Integers.runtimeconfig.json
+C:\Users\arvin\Desktop\Outputs_And_Integers\bin\Debug\net6.0\Outputs_And_Integers.dll
+C:\Users\arvin\Desktop\Outputs_And_Integers\bin\Debug\net6.0\Outputs_And_Integers.pdb
+C:\Users\arvin\Desktop\Outputs_And_Integers\obj\Debug\net6.0\Outputs_And_Integers.csproj.AssemblyReference.cache
+C:\Users\arvin\Desktop\Outputs_And_Integers\obj\Debug\net6.0\Outputs_And_Integers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arvin\Desktop\Outputs_And_Integers\obj\Debug\net6.0\Outputs_And_Integers.AssemblyInfoInputs.cache
+C:\Users\arvin\Desktop\Outputs_And_Integers\obj\Debug\net6.0\Outputs_And_Integers.AssemblyInfo.cs
+C:\Users\arvin\Desktop\Outputs_And_Integers\obj\Debug\net6.0\Outputs_And_Integers.csproj.CoreCompileInputs.cache
+C:\Users\arvin\Desktop\Outputs_And_Integers\obj\Debug\net6.0\Outputs_And_Integers.dll
+C:\Users\arvin\Desktop\Outputs_And_Integers\obj\Debug\net6.0\refint\Outputs_And_Integers.dll
+C:\Users\arvin\Desktop\Outputs_And_Integers\obj\Debug\net6.0\Outputs_And_Integers.pdb
+C:\Users\arvin\Desktop\Outputs_And_Integers\obj\Debug\net6.0\Outputs_And_Integers.genruntimeconfig.cache
+C:\Users\arvin\Desktop\Outputs_And_Integers\obj\Debug\net6.0\ref\Outputs_And_Integers.dll
