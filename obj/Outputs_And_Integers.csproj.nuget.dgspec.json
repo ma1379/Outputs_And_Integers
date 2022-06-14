@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\krasm\\OneDrive\\Desktop\\SC-Outputs-And-Integers\\Outputs_And_Integers\\Outputs_And_Integers.csproj": {}
+    "D:\\Repositories\\OutputsAndIntegers\\Outputs_And_Integers\\Outputs_And_Integers.csproj": {}
   },
   "projects": {
-    "C:\\Users\\krasm\\OneDrive\\Desktop\\SC-Outputs-And-Integers\\Outputs_And_Integers\\Outputs_And_Integers.csproj": {
+    "D:\\Repositories\\OutputsAndIntegers\\Outputs_And_Integers\\Outputs_And_Integers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\krasm\\OneDrive\\Desktop\\SC-Outputs-And-Integers\\Outputs_And_Integers\\Outputs_And_Integers.csproj",
+        "projectUniqueName": "D:\\Repositories\\OutputsAndIntegers\\Outputs_And_Integers\\Outputs_And_Integers.csproj",
         "projectName": "Outputs_And_Integers",
-        "projectPath": "C:\\Users\\krasm\\OneDrive\\Desktop\\SC-Outputs-And-Integers\\Outputs_And_Integers\\Outputs_And_Integers.csproj",
-        "packagesPath": "C:\\Users\\krasm\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\krasm\\OneDrive\\Desktop\\SC-Outputs-And-Integers\\Outputs_And_Integers\\obj\\",
+        "projectPath": "D:\\Repositories\\OutputsAndIntegers\\Outputs_And_Integers\\Outputs_And_Integers.csproj",
+        "packagesPath": "C:\\Users\\etale\\.nuget\\packages\\",
+        "outputPath": "D:\\Repositories\\OutputsAndIntegers\\Outputs_And_Integers\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\krasm\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\etale\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

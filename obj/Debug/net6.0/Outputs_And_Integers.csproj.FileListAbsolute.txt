@@ -1,0 +1,15 @@
+D:\Repositories\OutputsAndIntegers\Outputs_And_Integers\bin\Debug\net6.0\Outputs_And_Integers.exe
+D:\Repositories\OutputsAndIntegers\Outputs_And_Integers\bin\Debug\net6.0\Outputs_And_Integers.deps.json
+D:\Repositories\OutputsAndIntegers\Outputs_And_Integers\bin\Debug\net6.0\Outputs_And_Integers.runtimeconfig.json
+D:\Repositories\OutputsAndIntegers\Outputs_And_Integers\bin\Debug\net6.0\Outputs_And_Integers.dll
+D:\Repositories\OutputsAndIntegers\Outputs_And_Integers\bin\Debug\net6.0\Outputs_And_Integers.pdb
+D:\Repositories\OutputsAndIntegers\Outputs_And_Integers\obj\Debug\net6.0\Outputs_And_Integers.csproj.AssemblyReference.cache
+D:\Repositories\OutputsAndIntegers\Outputs_And_Integers\obj\Debug\net6.0\Outputs_And_Integers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\OutputsAndIntegers\Outputs_And_Integers\obj\Debug\net6.0\Outputs_And_Integers.AssemblyInfoInputs.cache
+D:\Repositories\OutputsAndIntegers\Outputs_And_Integers\obj\Debug\net6.0\Outputs_And_Integers.AssemblyInfo.cs
+D:\Repositories\OutputsAndIntegers\Outputs_And_Integers\obj\Debug\net6.0\Outputs_And_Integers.csproj.CoreCompileInputs.cache
+D:\Repositories\OutputsAndIntegers\Outputs_And_Integers\obj\Debug\net6.0\Outputs_And_Integers.dll
+D:\Repositories\OutputsAndIntegers\Outputs_And_Integers\obj\Debug\net6.0\refint\Outputs_And_Integers.dll
+D:\Repositories\OutputsAndIntegers\Outputs_And_Integers\obj\Debug\net6.0\Outputs_And_Integers.pdb
+D:\Repositories\OutputsAndIntegers\Outputs_And_Integers\obj\Debug\net6.0\Outputs_And_Integers.genruntimeconfig.cache
+D:\Repositories\OutputsAndIntegers\Outputs_And_Integers\obj\Debug\net6.0\ref\Outputs_And_Integers.dll
